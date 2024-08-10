@@ -1,7 +1,8 @@
-### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
+### EX1: Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
 ### DATE: 
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
+  
 ### PROCEDURE: 
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
@@ -57,8 +58,11 @@ rainy,75.0,80.0,false,yes
 ![WhatsApp Image 2024-08-10 at 21 23 48_252a6cda](https://github.com/user-attachments/assets/9294a600-06f4-46af-ba7a-24a7680d4d39)
 
 
+![WhatsApp Image 2024-08-10 at 21 32 59_624cd634](https://github.com/user-attachments/assets/8f7d874a-bd9d-4589-8165-a19022a051f9)
+
 
 ### PREPROCESSING
+
 ### Procedure:
 #### 1) Add -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -81,6 +85,10 @@ rainy,75.0,80.0,false,yes
 ![WhatsApp Image 2024-08-10 at 21 25 06_f9d6d934](https://github.com/user-attachments/assets/0ef8bcd5-d097-49ff-b93f-c603014343bb)
 
 
+![WhatsApp Image 2024-08-10 at 21 33 51_29786517](https://github.com/user-attachments/assets/35cf8581-ecc1-44ec-8489-c42efe5e81da)
+
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -97,7 +105,12 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+
 ![WhatsApp Image 2024-08-10 at 21 25 57_c51b162a](https://github.com/user-attachments/assets/39349caa-0a03-4d09-852f-25ac3ac57bc5)
+
+
+![WhatsApp Image 2024-08-10 at 21 34 37_f47fb19f](https://github.com/user-attachments/assets/7dc5213c-48b9-48c8-ab76-b3d1a7224428)
+
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -117,6 +130,11 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 ![WhatsApp Image 2024-08-10 at 20 01 33_6059ab95](https://github.com/user-attachments/assets/9546095e-56fd-462f-808f-9755c5d87aef)
+
+
+![WhatsApp Image 2024-08-10 at 21 35 33_b9d91631](https://github.com/user-attachments/assets/145604e7-3bcf-4072-9c6e-906ad18711fa)
+
+
 
 
 ### RESULT: 
