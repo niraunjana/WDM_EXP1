@@ -54,9 +54,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/19ca637e-86ef-499e-9ce4-bc2f9ed12bc5)
 
-![image](https://github.com/user-attachments/assets/0e2c9b94-4d6a-479c-8548-fe1e468e731d)
+![WhatsApp Image 2024-08-10 at 21 19 46_a0093dd8](https://github.com/user-attachments/assets/72d28e17-6bd3-4602-91fa-bbe0b6a5c230)
+
+
+![WhatsApp Image 2024-08-10 at 21 20 27_d6f17763](https://github.com/user-attachments/assets/65dba9d9-2f8e-4945-9c13-ce0ef8f0a6a0)
 
 
 ### PREPROCESSING
