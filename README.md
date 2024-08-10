@@ -54,6 +54,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/19ca637e-86ef-499e-9ce4-bc2f9ed12bc5)
+
+![image](https://github.com/user-attachments/assets/0e2c9b94-4d6a-479c-8548-fe1e468e731d)
 
 
 ### PREPROCESSING
